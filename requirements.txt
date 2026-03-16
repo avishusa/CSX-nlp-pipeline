@@ -1,0 +1,10 @@
+transformers>=4.40.0
+torch>=2.6.0
+spacy>=3.6.0
+datasets>=2.19.0
+pandas>=2.2.2
+scikit-learn>=1.4.0
+streamlit>=1.35.0
+python-dotenv>=1.0.0
+openai>=1.30.0
+numpy>=1.26.0
