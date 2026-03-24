@@ -1,4 +1,4 @@
-# CSX Intelligent Logistics NLP Pipeline
+# Intelligent Logistics NLP Pipeline
 
 Extracts **intent** and **entities** from unstructured customer interaction 
 data — call transcripts, emails, and chatbot logs — using a cost-efficient 
