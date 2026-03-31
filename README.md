@@ -5,7 +5,7 @@ data — call transcripts, emails, and chatbot logs — using a cost-efficient
 hybrid NLP architecture.
 
 ## Problem
-CSX captures thousands of customer interactions daily across multiple channels.
+Compnies captures thousands of customer interactions daily across multiple channels.
 This data currently exists as unstructured text — impossible to analyze at scale.
 This pipeline converts raw conversations into structured, BI-ready JSON records.
 
@@ -41,7 +41,7 @@ A tiered NLP pipeline:
 
 ## Project Structure
 ```
-csx-nlp-pipeline/
+nlp-pipeline/
 ├── data/               # Raw, processed, synthetic, and final datasets
 ├── notebooks/          # EDA and training notebooks
 ├── src/
